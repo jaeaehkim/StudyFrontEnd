@@ -1,0 +1,24 @@
+.fruits span:first-child{
+    color: red;
+}
+
+/* 작동 안하는 케이스 */
+/* .fruits div:first-child{
+    color: red;
+} */
+
+.fruits h3:last-child {
+    color: blue;
+}
+
+.fruits *:nth-child(2) {
+    color: brown;
+}
+
+.fruits *:nth-child(3n) {
+    color: aqua;
+}
+
+.fruits *:not(span) {
+    color: blueviolet;
+}

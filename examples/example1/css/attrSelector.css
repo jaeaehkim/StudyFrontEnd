@@ -1,0 +1,11 @@
+[type="text"] {
+    background-color: firebrick;
+}
+
+[type="password"] {
+    background-color: azure;
+}
+
+[data-fruit-name] {
+    color: blue;
+}
