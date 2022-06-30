@@ -12,19 +12,7 @@
    - head/main(master)/origin : https://www.inflearn.com/questions/27696
 - git 명령어 정리 : https://wordbe.tistory.com/entry/Git-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%ACcommit-push-pull-request-merge-%EB%93%B1
       - https://velog.io/@dauuuum/git-github
-```
-git config --global --list
-git config --global user.name
-git config --global user.email
-git config --get user.name
-git config --get user.email
-git status
-git log
-git add .
-git add -A
 
-git commit -m '[feat] add link to readme'
-git remote add origin https://github.com/jaeaehkim/StudyFrontEnd.git
-git push origin main
-git pull
-```
+- node.js 
+  - https://codingapple.com/unit/nodejs-3-what-is-node-js/
+  - https://hanamon.kr/nodejs-%EA%B0%9C%EB%85%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/
