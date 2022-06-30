@@ -1,0 +1,9 @@
+nvm use 12.14.1
+nvm ls
+node --version
+nvm uninstall 12.14.1
+npm init -y // (package.json 생성됨)
+npm run dev
+npm run build
+npm install lodash@4.17.20
+npm update lodash
