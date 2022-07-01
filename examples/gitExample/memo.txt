@@ -1,0 +1,16 @@
+```
+git config --global --list
+git config --global user.name
+git config --global user.email
+git config --get user.name
+git config --get user.email
+git status
+git log
+git add .
+git add -A
+
+git commit -m '[feat] add link to readme'
+git remote add origin https://github.com/jaeaehkim/StudyFrontEnd.git
+git push origin main
+git pull
+```
