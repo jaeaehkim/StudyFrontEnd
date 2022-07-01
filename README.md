@@ -21,3 +21,4 @@
   - 파이썬 venv : https://thdud4479.tistory.com/22
   - JS vs Python : https://velog.io/@sji7532/JavaScript-JavaScript%EC%9D%98-%ED%8A%B9%EC%A7%95
   - 파이썬 runtime 작동방식 : https://aliwo.github.io/swblog/python/python-runtime/#
+- JS this 개념 : https://velog.io/@colki/JS-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-this-%EA%B0%9C%EB%85%90
