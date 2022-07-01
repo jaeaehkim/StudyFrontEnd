@@ -1,9 +1,17 @@
+# nvm
 nvm use 12.14.1
 nvm ls
 node --version
 nvm uninstall 12.14.1
+
+# npm
 npm init -y // (package.json 생성됨)
+npm install parcel-bundler -D   // (node_modules , package-lock.json 생성됨)  install된 패키지는 모두 node_modules에 저장됨.
+npm install lodash
+npm install lodash@4.17.20
+npm install // package.json에 내역이 남아있다면 node_modules에 다 설치됨
+
+# 설명 : package.json은 직접 관리, package-lock.json은 패키지간 내부적으로 자동 충돌 관리 -> 프로젝트 진행시 이거 두개는 절대 삭제하면 안됨.
 npm run dev
 npm run build
-npm install lodash@4.17.20
 npm update lodash
