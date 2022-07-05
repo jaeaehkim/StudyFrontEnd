@@ -24,3 +24,4 @@
 - JS this 개념 : https://velog.io/@colki/JS-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-this-%EA%B0%9C%EB%85%90
 - default export vs named export : https://medium.com/@_diana_lee/default-export%EC%99%80-named-export-%EC%B0%A8%EC%9D%B4%EC%A0%90-38fa5d7f57d4
 - json : https://ko.wikipedia.org/wiki/JSON
+- versioning carrot : https://min9nim.github.io/2020/01/npm-version/
