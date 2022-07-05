@@ -25,3 +25,4 @@
 - default export vs named export : https://medium.com/@_diana_lee/default-export%EC%99%80-named-export-%EC%B0%A8%EC%9D%B4%EC%A0%90-38fa5d7f57d4
 - json : https://ko.wikipedia.org/wiki/JSON
 - versioning carrot : https://min9nim.github.io/2020/01/npm-version/
+- 정규표현식 : https://heropy.blog/2018/10/28/regexp/
