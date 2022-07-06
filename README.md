@@ -26,3 +26,4 @@
 - json : https://ko.wikipedia.org/wiki/JSON
 - versioning carrot : https://min9nim.github.io/2020/01/npm-version/
 - 정규표현식 : https://heropy.blog/2018/10/28/regexp/
+- npm install option : https://chimimode.github.io/2019-07-03-npm-install-option/
