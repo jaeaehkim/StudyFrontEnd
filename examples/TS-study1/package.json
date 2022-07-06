@@ -1,0 +1,16 @@
+{
+  "name": "ts-study1",
+  "version": "1.0.0",
+  "description": "npm i typescript -g\r tsc test.ts",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
