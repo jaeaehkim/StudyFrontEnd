@@ -15,9 +15,10 @@
   - node_modules/.bin/tsc
   - node_modules/typescript/bin/tsc
 
-- npx tsc // npm의 기능
-- npx tsc --init // tsc --init , tsconfig 생성
-- npx tsc -w // watch 모드
+- 명령어
+  - npx tsc // npm의 기능
+  - npx tsc --init // tsc --init , tsconfig 생성
+  - npx tsc -w // watch 모드
 
 - package.json scripts 수정
   - npm run build
