@@ -2,7 +2,7 @@
 ## Examples
 - https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla
 - https://github.com/ParkYoungWoong/starbucks-vanilla-app
-
+- React :  https://ljh86029926.gitbook.io/coding-apple-react/
 
 ## Point
 - 가상요소 : https://blogpack.tistory.com/1025
@@ -28,6 +28,10 @@
 - 정규표현식 : https://heropy.blog/2018/10/28/regexp/
 - npm install option : https://chimimode.github.io/2019-07-03-npm-install-option/
 - glob pattern : https://velog.io/@k7120792/Glob-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D
+- npm vs npx : https://ljh86029926.gitbook.io/coding-apple-react/undefined/npm-npx
+- create-react-app : https://ssungkang.tistory.com/entry/React-React-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-create-react-app
+- babel (자바스크립트 컴파일러) : https://ljs0705.medium.com/babel-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-a1d0e6bd021a
+- npm 이란 : https://m.blog.naver.com/magnking/220961896609
 
 ## Issue
 - tsc 실행 이슈 : https://hellcoding.tistory.com/entry/VSCode-%EC%98%A4%EB%A5%98-%EC%9D%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%96%89%ED%95%A0-%EC%88%98-%EC%97%86%EC%9C%BC%EB%AF%80%EB%A1%9C
