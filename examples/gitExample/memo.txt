@@ -1,3 +1,5 @@
+기본명령어 : https://velog.io/@miracle-21/GIT%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%AA%85%EB%A0%B9%EC%96%B4
+sshkey : https://mj-youn.github.io/git-ssh-key-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95
 ```
 git config --global --list
 git config --global user.name
@@ -13,4 +15,16 @@ git commit -m '[feat] add link to readme'
 git remote add origin https://github.com/jaeaehkim/StudyFrontEnd.git
 git push origin main
 git pull
+
+
+git remote
+git remote show origin
 ```
+
+```
+Host 192.168.12.190
+        User jaehoon_kim2
+        IdentityFile /home/jaehoon_kim2@tmax.co.kr/.ssh/id_rsa
+        IdentitiesOnly true
+        Preferredauthentications publickey
+ ```
