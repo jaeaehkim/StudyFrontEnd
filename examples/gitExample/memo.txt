@@ -6,6 +6,14 @@ git config --global user.name
 git config --global user.email
 git config --get user.name
 git config --get user.email
+
+sudo apt-get install git
+git config --global user.name "jaehoon_kim2"
+git config --global user.email jaehoon_kim2@tmax.co.kr
+git config --global core.editor vim
+git config --global merge.tool vimdiff
+git config --global core.pager "less -r"
+
 git status
 git log
 git add .
