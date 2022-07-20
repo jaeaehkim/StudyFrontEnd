@@ -50,3 +50,5 @@
 - react / typescript 개념 & 사용법 : https://keeper.tistory.com/49
 - 싱글톤 패턴 : https://tecoble.techcourse.co.kr/post/2020-11-07-singleton/
 - react - useEffect : https://cocoon1787.tistory.com/796
+- mobx vs redux : https://jinhyukoo.github.io/web/2021/02/03/Mobx%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC.html
+- vscode git graph : https://jhyeok.com/vscode-git-graph/
